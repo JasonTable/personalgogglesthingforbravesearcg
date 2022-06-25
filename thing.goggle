@@ -1,0 +1,34 @@
+! name: goawaydumshite
+! description: sites i dunt wanna see in me search
+! public: false
+! author: Jasinf
+
+! sites with browser check
+$discard,site=spigotmc.org
+$discard,site=gitlab.com
+
+! boost a what is my ip website that does not use cloudflare because all the sites in the top results do.
+$boost=2,site=ipify.org
+$discard,site=whatismyipaddress.com 
+$discard,site=whatismyip.com
+$discard,site=nordvpn.com
+$discard,site=iplocation.net
+$discard,site=showmyip.com
+$discard,site=whatismyip.net
+$discard,site=iplocation.net
+$discard,site=ipvanish.com
+$discard,site=ifconfig.co
+$discard,site=myipaddress.com
+$discard,site=whoer.net
+$discard,site=kinsta.com
+$discard,site=ipcost.com
+$discard,site=surfshark.com
+$discard,site=purevpn.com
+$discard,site=myip.com
+$discard,site=veepn.com
+$discard,site=ipaddress.my
+$discard,site=myip.comveepn.com
+$discard,site=myip.comveepn.com
+$discard,site=myip.comveepn.com
+$discard,site=myip.comveepn.com
+$discard,site=myip.comveepn.com
