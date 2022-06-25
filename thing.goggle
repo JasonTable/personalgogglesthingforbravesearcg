@@ -8,7 +8,7 @@ $discard,site=spigotmc.org
 $discard,site=gitlab.com
 
 ! boost a what is my ip website that does not use cloudflare because all the sites in the top results do.
-$boost=2,site=ipify.org
+$boost=3,site=ipify.org
 $discard,site=whatismyipaddress.com 
 $discard,site=whatismyip.com
 $discard,site=nordvpn.com
@@ -27,3 +27,6 @@ $discard,site=purevpn.com
 $discard,site=myip.com
 $discard,site=veepn.com
 $discard,site=ipaddress.my
+$discard,site=whatismyip-address.com
+$discard,site=whatismyip.network
+$discard,site=privateinternetaccess.com
